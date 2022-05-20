@@ -22,14 +22,14 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['213783822835','213783822835','213783822835'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['213783822835'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '213783822835' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'm7x' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'M7X' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'm7x' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© M7x' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'm7x' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -57,12 +57,12 @@ free: 15,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
-global.veloriy = fs.readFileSync('./image/chika.mp4')
+global.thumb = fs.readFileSync('./image/M7X.png')
+global.veloriy = fs.readFileSync('./image/M7X.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
+global.BgWelcLeav = 'https://c.tenor.com/OHpHTP2bsEcAAAAd/%D8%A7%D8%B1%D8%AD%D8%A8-%D9%87%D9%84%D8%A7.gif'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
